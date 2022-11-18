@@ -1,0 +1,10 @@
+[2019-03-11:11:37:52] Nama Admin : saiful => Edit Hutang => 17 => Sukses 
+
+[2022-22-08:07:55:13] Nama Admin : Adam => Edit Pemasukan => 1 => Sukses Edit
+
+[2022-22-08:07:55:22] Nama Admin : Adam => Edit Pemasukan => 1 => Sukses Edit
+
+[2022-22-08:07:55:22] Nama Admin : Adam => Edit Pemasukan => 1 => Sukses Edit
+
+[2022-22-08:08:09:23] Nama Admin : Adam => Edit Pemasukan => 28 => Sukses Edit
+
